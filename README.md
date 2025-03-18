@@ -70,7 +70,7 @@ Die Anwendung läuft standardmäßig auf **http://localhost:3000**.
 
 ## 📬 Kontakt
 Falls Sie Fragen oder Anregungen haben, können Sie mich gerne kontaktieren:
-- 📧 E-Mail: [Deine E-Mail-Adresse]
+- 📧 E-Mail: [hadylkhelif18@gmail.com]
 - 🔗 GitHub: [HADIL19](https://github.com/HADIL19)
 
 ---
